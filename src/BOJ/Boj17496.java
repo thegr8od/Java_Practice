@@ -18,7 +18,6 @@ public class Boj17496 {
 		
 		int ans = ((n-1)/t)*c*p;
 		
-		System.out.println(t);
 		System.out.println(ans);
 	}
 }
